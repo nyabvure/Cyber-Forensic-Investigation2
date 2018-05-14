@@ -2,6 +2,11 @@ This is a cyber forensic investigation tool that shows a list of all usb devices
 
 The program is written in java implementing a Java library to get a list of all usb storage devices connected to the computer. It works on the two main operating systems Windows, Linux. It might work on MAC OS havent managed to test it 
 
+
+
+*****************************************These are test samples**************************************************************
+
+
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USBSTOR\Disk&Ven_HP&Prod_Officejet_Pro_86&Rev_1.00\8&35be4865&0&CN373D4GJ405KD&0\Properties
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USBSTOR\Disk&Ven_JetFlash&Prod_Transcend_16GB&Rev_8.07
 
